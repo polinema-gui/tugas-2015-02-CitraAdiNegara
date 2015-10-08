@@ -1,0 +1,10 @@
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\KalkulatorCitra\KalkulatorCitra\bin\Debug\KalkulatorCitra.exe.config
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\KalkulatorCitra\KalkulatorCitra\bin\Debug\KalkulatorCitra.exe
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\KalkulatorCitra\KalkulatorCitra\bin\Debug\KalkulatorCitra.pdb
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\KalkulatorCitra\KalkulatorCitra\bin\Debug\KalkulatorCitra.xml
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\KalkulatorCitra\KalkulatorCitra\obj\Debug\KalkulatorCitra.Form1.resources
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\KalkulatorCitra\KalkulatorCitra\obj\Debug\KalkulatorCitra.Resources.resources
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\KalkulatorCitra\KalkulatorCitra\obj\Debug\KalkulatorCitra.vbproj.GenerateResource.Cache
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\KalkulatorCitra\KalkulatorCitra\obj\Debug\KalkulatorCitra.exe
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\KalkulatorCitra\KalkulatorCitra\obj\Debug\KalkulatorCitra.xml
+E:\KULIAH\SEMESTER 3\Pemrograman GUI (P. Dian )\Praktikum\KalkulatorCitra\KalkulatorCitra\obj\Debug\KalkulatorCitra.pdb
